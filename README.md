@@ -49,11 +49,11 @@ This repo is for [Tarang Shah](#), Started May 2017
    - [ ] Two-Layer Neural Network
    - [ ] Higher Level Representations: Image Features
    - [ ] Cool Bonus: Do something extra!
-- [ ] **Lecture 5:** Training Neural Networks Part 1; Activation
+- [x] **Lecture 5:** Training Neural Networks Part 1; Activation
       functions, weight initialization, gradient flow, batch
       normalization; Babysitting the learning process, hyperparameter
       optimization
-   - [ ] [Video](https://youtu.be/gYpoJMlgyXA)
+   - [x] [Video](https://youtu.be/gYpoJMlgyXA)
    - [ ] [Slides](slides/lecture5.pdf)
    - [ ] [Neural Nets notes 1](notes/neural-nets-1.pdf)
    - [ ] [Neural Nets notes 2](notes/neural-nets-2.pdf)
