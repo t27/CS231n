@@ -32,10 +32,10 @@ This repo is for [Tarang Shah](#), Started May 2017
    - [x] [Slides](slides/lecture3.pdf)
    - [x] [Linear classification notes](notes/linear-classification.pdf)
    - [x] [Optimization notes](notes/optimization.pdf)
-- [ ] **Lecture 4:** Backpropagation; Introduction to neural networks
-   - [ ] [Video](https://youtu.be/i94OvYb6noo)
-   - [ ] [Slides](slides/lecture4.pdf)
-   - [ ] [Backprop notes](notes/backprop.pdf)
+- [x] **Lecture 4:** Backpropagation; Introduction to neural networks
+   - [x] [Video](https://youtu.be/i94OvYb6noo)
+   - [x] [Slides](slides/lecture4.pdf)
+   - [x] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
       - [ ] [Efficient Backprop](papers/efficient-backprop.pdf) -- 3/44
       - [ ] [Automatic differentiation survey](papers/automatic-differentiation.pdf)
